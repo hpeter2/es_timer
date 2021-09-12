@@ -1,6 +1,7 @@
 #pragma once
 #include "EuroScopePlugIn.h"
 #include "Constant.h"
+#include <sstream>
 
 
 using namespace std;
